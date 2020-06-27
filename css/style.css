@@ -1,0 +1,32 @@
+		.myLogo {
+         display: block;
+         margin: auto;
+         width: 17%;
+         }
+         .bigHeading {
+         color: orange;
+         font-family: cursive;
+         text-align: center;
+         font-size: 34px;
+         font-weight: bold;
+         }
+         .innerText {
+         text-align: center;
+         background-color: seashell;
+         font-size: 19px;
+         color: brown;
+         width: 44%;
+         display: block;
+         margin: auto;
+         }
+         .background {
+         background-image: url('../images/background_image.jpg');
+         background-repeat: no-repeat;
+         background-size: cover;
+         }
+         .link {
+         font-size: 60px;
+         background-color: wheat;
+         font-family: cursive;
+         }
+ 
